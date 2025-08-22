@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Patrina!
-👩🏻‍💻 Computer Engineer Student sharing my projects and <br/>
+👩🏻‍💻 Computer Engineer Student sharing my projects<br/>
 👩🏻‍🎓 Currently studying Computer Engineering at the Simon Fraser University<br/>
 💭 Currently learning about UI/UX design<br/>
 
