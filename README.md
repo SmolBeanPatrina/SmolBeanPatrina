@@ -3,7 +3,11 @@
 📚 Studying Computer Engineering at the Simon Fraser University<br/>
 💭 Currently learning about UI/UX design and Web Development<br/>
 
-<!-- # Projects Overview -->
+# Projects Overview
+
+**1. [That Time I was Reincarnated in a Mine](https://github.com/SmolBeanPatrina/That-Time-I-was-Reincarnated-in-a-Mine)**<br/>
+
+
 <!-- # 💻 Tech Stack -->
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <!--
