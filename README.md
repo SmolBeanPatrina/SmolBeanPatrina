@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Patrina!
-🙋🏻 Computer Engineer Student sharing my projects and studies<br/>
-📚 Studying Computer Engineering at the Simon Fraser University<br/>
-💭 Currently learning about UI/UX design and Web Development<br/>
+# Hello, I'm Patrina!
+**Education**: Ongoing Bachelor of Applied Science - Computer Engineering
+**Current Role**: The Forum - UI/UX Designer 
 
+
+<!--
 # Projects Overview
 
 **1. [That Time I was Reincarnated in a Mine](https://github.com/SmolBeanPatrina/That-Time-I-was-Reincarnated-in-a-Mine)**<br/>
