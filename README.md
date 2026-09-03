@@ -1,6 +1,5 @@
 # Hello, I'm Patrina!
 **Education**: Ongoing Bachelor of Applied Science - Computer Engineering, Simon Fraser University <br/>
-**Current Role**: The Forum - UI/UX Designer 
 
 
 <!--
